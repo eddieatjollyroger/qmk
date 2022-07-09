@@ -34,14 +34,14 @@
       "KC_V",
       "KC_K",
       "KC_H",
-      "LCA_T(KC_COMM)",
+      "LCTL_T(KC_COMM)",
       "LGUI_T(KC_DOT)",
       "RALT_T(KC_SLSH)",
-      "KC_LCTL",
-      "LT(1,KC_NO)",
+      "LCA_T(KC_ESC)",
+      "LT(1,KC_TAB)",
       "KC_SPC",
-      "KC_BSPC",
-      "LT(2,KC_NO)",
+      "KC_ENT",
+      "LT(2,KC_BSPC)",
       "KC_RSFT"
     ],
     [
@@ -78,7 +78,7 @@
       "KC_LCTL",
       "KC_NO",
       "KC_SPC",
-      "KC_ENT",
+      "KC_BSPC",
       "KC_NO",
       "KC_RSFT"
     ],
